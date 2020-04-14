@@ -1,0 +1,30 @@
+{
+  "name": "8-bit-binary",
+  "version": "1.0.0",
+  "description": "Convert a sentence to 8-bit binary array",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiragdoctor/challenges.git"
+  },
+  "keywords": [
+    "challenges",
+    "8-bit",
+    "binary",
+    "binary",
+    "conversion",
+    "recusrion"
+  ],
+  "author": "Chirag Doctor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiragdoctor/challenges/issues"
+  },
+  "homepage": "https://github.com/chiragdoctor/challenges#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
